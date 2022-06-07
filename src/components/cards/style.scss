@@ -1,0 +1,13 @@
+@import "../../scss/index.scss";
+
+.card {
+    background-color: $bg-card; 
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid $border-primary;
+    border-radius: 2px;
+    
+}

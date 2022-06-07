@@ -1,0 +1,17 @@
+@import "../../scss/index.scss";
+
+$height:100vh;
+$padding:5px;
+
+.side-nav {
+  background-color: $bg-side-nav;
+  height: $height;
+  width: 150px;
+  padding: $padding;
+}
+.side-nav-tools {
+  background-color: $bg-side-nav;
+  width: 30px;
+  height: $height;
+  padding: $padding;
+}
